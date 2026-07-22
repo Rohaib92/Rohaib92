@@ -7,7 +7,6 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### 📊 My GitHub Stats
-### 📊 My GitHub Stats
 ![Rohaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohaib92&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohaib92&layout=compact&theme=tokyonight)
