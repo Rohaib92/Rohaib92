@@ -7,6 +7,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### 📊 My GitHub Stats
+### 📊 My GitHub Stats
 ![Rohaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohaib92&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohaib92&layout=compact&theme=tokyonight)
@@ -16,7 +17,9 @@
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![Windsurf](https://img.shields.io/badge/Windsurf-00B4AB?style=for-the-badge&logo=windsurf&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white)
 <!--
 **Rohaib92/Rohaib92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
